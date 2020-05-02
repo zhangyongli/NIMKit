@@ -60,7 +60,7 @@ dependencies {
     implementation 'com.huawei.android.hms:push:2.6.0.301'
 
     implementation 'com.netease.nimlib:jsbridge:1.3.1'
-    api project(':farwolf.weex')
+    api 'com.farwolf.weexplus:farwolf.weex:latest.integration'
 
 
 }
